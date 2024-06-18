@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polli Lee - Mental Health Podcast</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f0eb;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #ff6b81;
+            text-align: center;
+        }
+        p {
+            text-align: center;
+        }
+        .podcast-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .podcast-link a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff6b81;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .podcast-link a:hover {
+            background-color: #e8435a;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Polli Lee</h1>
+    <p>Welcome to my Mental Health Podcast!</p>
+    
+    <div class="podcast-link">
+        <a href="#">Listen to the Podcast</a>
+    </div>
+    
+    <p>Here you'll find discussions on mental health, well-being, and personal growth. Stay tuned for new episodes!</p>
+</div>
+
+</body>
+</html>
